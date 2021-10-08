@@ -1,0 +1,13 @@
+{
+    "name": "ivan/hexlet-php",
+    "description": "first project on php",
+    "authors": [
+        {
+            "name": "Ivan",
+            "email": "i.susekov@robo.finance"
+        }
+    ],
+    "require": {
+        "tightenco/collect": "^8.34"
+    }
+}
